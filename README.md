@@ -1,6 +1,6 @@
 # My Portfolio
 
-![Design preview for My Portfolio website](./assets/img/preview.png)
+![Design preview for My Portfolio website](./assets/img/myphoto.png)
 
 
 ## Links
